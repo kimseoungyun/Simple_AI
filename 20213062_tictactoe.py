@@ -1,7 +1,3 @@
-from ast import IsNot
-from asyncio.windows_events import NULL
-from asyncore import read
-from dataclasses import dataclass
 import random
 
 #이기는 경로
